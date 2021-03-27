@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MainScreen</string>
+    <string name="imgS">img</string>
+    <string name="txtTitle">Dr.Fit</string>
+    <string name="txtSub">Your health assistance</string>
+
+    <string name="img1">img1</string>
+    <string name="img2">img2</string>
+    <string name="img3">img3</string>
+    <string name="img4">img4</string>
+    <string name="img5">img5</string>
+
+    <string name="imgStartIcon">img_start_icon</string>
+
+    <string name="txt1">Welcome to Dr.Fit</string>
+    <string name="txt2">Easy and quick register</string>
+    <string name="txt3">Food tracker</string>
+    <string name="txt4">Find a Doctor</string>
+    <string name="txt5">Join with us!</string>
+
+    <string name="txtGreeting">How are you doing?</string>
+
+    <string name="cont1">We are your health manager.<br />Are you looking for some help?</string>
+    <string name="cont2">All we need is <br /> simple information of you</string>
+    <string name="cont3">Make a balanced diet.<br /><br />We will recommend some recipes<br />for your healthy meal</string>
+    <string name="cont4">Dr.Fit will find clinic<br />and help to make an appointment</string>
+    <string name="cont5">Tap to Start Dr.Fit</string>
+
+    <string name="btnContinue">imgBtn</string>
+    <string name="imgBg">bg</string>
+
+    <string name="txtSignIn">Sign in</string>
+    <string name="txtId">Email address</string>
+    <string name="txtPw">Passwords</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="txtRegQ">Do not have an account yet?</string>
+    <string name="txtRegister">Register here</string>
+    <string name="txtRegisterTitle">Register</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">Welcome!</string>
+    <string name="imgProfile">profile</string>
+    <string name="prompt_userName">Name</string>
+    <string name="prompt_postalCode">Postal code</string>
+    <string name="btnRegister">Register</string>
+    <string name="userName">Haesun</string>
+
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="nav_btnHome">Home</string>
+    <string name="nav_btnMyAccount">My account</string>
+    <string name="nav_btnHelp">Help</string>
+    <string name="nav_btnNew">News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
